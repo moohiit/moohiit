@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moohiit&label=Profile%20views&color=0e75b6&style=flat" alt="moohiit" /> </p>
 
-- 🔭 I’m currently working on **Gate Entry/Exit Management System**
+- 🔭 I’m currently working on **New Project: Meal Planner **
 
 - 🌱 I’m currently Creating projects using **MERN, Angular, Backend, JavaScript, Laravel**
 
