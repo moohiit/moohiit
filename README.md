@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pmohit645@gmail.com**
 
-- ⚡ **<a href="https://mohitpatel.cloud" target="blank">My Portfolio Website</a>**
+- ⚡ My Portfolio Website **<a href="https://mohitpatel.cloud" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="website" width="40" height="40"/></a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
