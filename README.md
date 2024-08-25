@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohit Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moohiit&label=Profile%20views&color=0e75b6&style=flat" alt="moohiit" /> </p>
 
 - 🔭 I’m currently working on **Gate Entry/Exit Management System**
 
-- 🌱 I’m currently learning **React, Angular, Backend**
+- 🌱 I’m currently Creating projects using **MERN, Angular, Backend, JavaScript, Laravel**
 
-- 💬 Ask me about **React, Angular, Tailwind, HTML, CSS, JavaScript**
+- 💬 Ask me about **Backend, React, Angular, Tailwind, HTML, CSS, JavaScript, PHP**
 
 - 📫 How to reach me **pmohit645@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ **<a href="https://mohitpatel.cloud" target="blank">My Portfolio Website</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
