@@ -34,7 +34,7 @@
 
 ### 📫 How to reach me
 **Email:** pmohit645@gmail.com  
-**Portfolio:** [https://mohitpatel.cloud](https://mohitpatel.cloud)
+**Portfolio:** [https://mohitpatel.org](https://mohitpatel.org)
 
 ### ⚡ Fun fact
 I can solve a Rubik's cube in under 2 minutes!
