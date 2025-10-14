@@ -5,7 +5,7 @@
 
 ## 🚀 Featured Project: ShopEase (E-commerce Platform)
 
-**🔗 Live Demo:** [https://shopease-trw4.onrender.com/](https://shopease.mohitpatel.org/)
+**🔗 Live Demo:** [https://shopease.mohitpatel.org/](https://shopease.mohitpatel.org/)
 
 **🛒 Key Features:**
 - Full-featured e-commerce platform with product listings
