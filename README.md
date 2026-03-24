@@ -1,89 +1,103 @@
 <h1 align="center">Hi 👋, I'm Mohit Patel</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Full Stack Developer | MERN | Node.js | Real-time Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moohiit&label=Profile%20views&color=0e75b6&style=flat" alt="moohiit" /> </p>
-
-## 🚀 Featured Project: ShopEase (E-commerce Platform)
-
-**🔗 Live Demo:** [https://shopease.mohitpatel.org/](https://shopease.mohitpatel.org/)
-
-**🛒 Key Features:**
-- Full-featured e-commerce platform with product listings
-- User authentication and profile management
-- Shopping cart and checkout system
-- Order tracking and history
-- Admin dashboard for product management
-- Responsive design with dark/light mode
-
-**🛠️ Built With:**
-- **Frontend:** React, Redux, Tailwind CSS
-- **Backend:** Node.js, Express, MongoDB
-- **Payment Integration:** Razorpay
-- **Deployment:** Render
-
----
-
-
-### 🌱 I'm currently mastering
-**MERN Stack | Angular | Java | Spring Boot | JavaScript | TypeScript**
-
-### 💬 Ask me about
-**Backend Development | React | Angular | Tailwind | JavaScript | Java**
-
-### 📫 How to reach me
-**Email:** pmohit645@gmail.com  
-**Portfolio:** [https://mohitpatel.org](https://mohitpatel.org)
-
-### ⚡ Fun fact
-I can solve a Rubik's cube in under 2 minutes!
-
----
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohit-patel-51338a245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-patel-linkedin" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100008578542979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohit-patel-facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/m.o.h.i.t.p.a.t.e.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit-patel-instagram" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=moohiit&label=Profile%20views&color=0e75b6&style=flat" alt="moohiit" />
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  
-  <!-- Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
-</p>
+## 🚀 About Me
+- 💻 Full Stack Developer with **1.5+ years of experience**
+- ⚡ Specialized in **scalable backend systems & real-time apps**
+- 🔥 Strong in **Node.js, React, MongoDB, Redis & Cloud Storage**
+- 📍 Gurgaon, India
+- 🟢 Immediate Joiner
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 🚀 Featured Projects
+
+### 🛒 ShopEase (E-commerce Platform)
+🔗 https://shopease.mohitpatel.org/
+
+- Full-featured e-commerce system with cart, orders & admin dashboard  
+- Razorpay payment integration  
+- JWT authentication & cloud-based image uploads  
+
+**Tech:** MERN Stack, Razorpay, AWS S3  
+
+---
+
+### 🤖 AI Interview Prep
+- AI-powered interview question generator  
+- Voice-based answer practice (Google Gemini integration)  
+- Real-time feedback system  
+
+**Tech:** Next.js, Node.js, MongoDB  
+
+---
+
+### 💬 Social Media & Messaging App
+- Real-time chat (Socket.io) with typing indicators & notifications  
+- Post system (like, comment, follow/unfollow)  
+- Media uploads using AWS S3  
+
+**Tech:** MERN, Socket.io, Tailwind  
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer  
+**Life Layer Health Solutions Pvt. Ltd (June 2024 – Present)**
+
+- Built scalable REST APIs using Node.js & Express  
+- Implemented **Redis caching → reduced DB load by ~70%**  
+- Developed real-time systems using **Socket.io (chat, notifications)**  
+- Integrated **AWS S3 & Google Cloud Storage**  
+- Razorpay payment gateway integration  
+- Worked in Agile environment with GitHub  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+React.js, Redux, Tailwind CSS, Material UI, HTML, CSS, Axios, React Hook Form  
+
+### ⚙️ Backend
+Node.js, Express.js, REST APIs, JWT, OAuth2, Socket.io, MVC  
+
+### 🗄️ Database
+MongoDB, Mongoose, MySQL, Redis  
+
+### ☁️ Cloud & Tools
+AWS S3, Google Cloud Storage, Docker (basic), Git, Postman, Jest  
+
+---
+
+## 🌱 Currently Learning
+TypeScript | System Design | Advanced Backend Scaling  
+
+---
+
+## 📫 Contact Me
+📧 pmohit645@gmail.com  
+🌐 https://mohitpatel.org  
+🔗 LinkedIn: https://linkedin.com/in/mohit-patel-51338a245  
+
+---
+
+## ⚡ Fun Fact
+I can solve a Rubik's cube in under 2 minutes 😄
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moohiit&show_icons=true&locale=en&layout=compact&theme=radical" alt="moohiit" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moohiit&show_icons=true&locale=en&theme=radical" alt="moohiit" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moohiit&theme=radical" alt="moohiit" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moohiit&show_icons=true&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moohiit&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moohiit&theme=radical" />
 </p>
