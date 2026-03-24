@@ -23,14 +23,12 @@
 
 ---
 
-### 🔭 I'm currently working on 
-**Meal Planner** - A nutrition tracking application with meal recommendations
 
 ### 🌱 I'm currently mastering
-**MERN Stack | Angular | Laravel | JavaScript | TypeScript**
+**MERN Stack | Angular | Java | Spring Boot | JavaScript | TypeScript**
 
 ### 💬 Ask me about
-**Backend Development | React | Angular | Tailwind | JavaScript | PHP**
+**Backend Development | React | Angular | Tailwind | JavaScript | Java**
 
 ### 📫 How to reach me
 **Email:** pmohit645@gmail.com  
