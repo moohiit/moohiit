@@ -29,6 +29,7 @@
 
 ### 🤖 AI Interview Prep Platform
 **🔗 Live Demo:** [https://ai-interview-prep-mohit.vercel.app/](https://ai-interview-prep-mohit.vercel.app/)
+
 **🛠️ Tech Stack:** Next.js, Node.js, Express.js, MongoDB  
 
 - AI-based interview question generator  
@@ -40,6 +41,7 @@
 
 ### 💬 Social Media & Messaging Platform
 **🔗 Live Demo:** [https://sastagram.mohitpatel.org/](https://sastagram.mohitpatel.org/)
+
 **🛠️ Tech Stack:** MERN, Socket.io, Tailwind CSS  
 
 - Real-time chat with typing indicators & last-seen status  
