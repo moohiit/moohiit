@@ -95,11 +95,7 @@ I can solve a Rubik's cube in under 2 minutes!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohit-patel-51338a245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-patel-linkedin" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100008578542979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohit-patel-facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/m.o.h.i.t.p.a.t.e.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit-patel-instagram" height="30" width="40" /></a>
-<a href="https://wa.me/917060993826" target="blank"><img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mohit-patel-whatsapp" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mohit-patel-51338a245" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-patel-linkedin" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://fb.com/profile.php?id=100008578542979" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohit-patel-facebook" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://instagram.com/m.o.h.i.t.p.a.t.e.l" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit-patel-instagram" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://wa.me/917060993826" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mohit-patel-whatsapp" height="30" width="40" /></a>
 </p>
 
 ---
